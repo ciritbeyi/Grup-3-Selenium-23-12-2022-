@@ -5,7 +5,7 @@ public class BasicTask {
         // line1
   //wooden spoon
        //Kürşat
-        // ozgur ilave
+
 
       
  
